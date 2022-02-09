@@ -5,7 +5,7 @@ const cors = require('cors');
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'jnitro5635',
+    password: 'password',
     database: 'billshub',
 })
 const port = 3001;
